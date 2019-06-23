@@ -1,1 +1,317 @@
-dummy
+{
+  "Collections": [
+    {
+      "name": "ColtWalls",
+      "preview_url": "https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/wallpaper-0.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/wallpaper-0.png"
+    },
+    {
+      "name": "Miimal",
+      "preview_url": "https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/wallpaper-0.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/wallpaper-0.png"
+    }
+  ],
+ "Wallpapers":[
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-1.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-1.png",
+         "name":"Colt Colorfulh",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-12.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-12.png",
+         "name":"Colt Default ",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-13.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-13.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-14.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-14.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-15.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-15.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-16.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-16.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-17.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-17.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-18.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-18.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-19.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-19.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-20.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-20.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-21.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-21.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-22.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-22.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-23.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-23.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-24.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-24.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-25.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-25.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-26.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-26.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-27.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-27.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-28.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-28.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-29.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-29.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-30.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-30.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-31.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-31.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-32.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-32.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-33.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-33.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-34.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-34.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-35.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-35.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-36.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-36.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-37.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-37.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-38.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-38.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-39.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-39.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-40.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-40.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-41.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-41.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-42.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-42.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-43.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-43.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-44.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-44.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-45.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-45.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-46.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-46.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-47.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-47.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-48.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-48.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-2.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-2.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-6.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-6.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-7.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-7.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-8.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-8.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      },
+      {
+         "author":"Team Colt",
+         "url":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-9.png",
+         "thumbUrl":"https://raw.githubusercontent.com/sai4041412/Colt-Msm_Papers/colt/ColtPapers/Colt-Wall-9.png",
+         "name":"Colt Default",
+         "category":"Colt Walls"
+      }
+  ]
+}
